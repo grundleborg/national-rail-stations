@@ -13665,12 +13665,12 @@
             "lon": -0.5031645138036541
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.00119, 
             "tiploc": "SHAFTTH", 
             "name": "Shaftesbury Town Hall (Bus)", 
             "crs": "SWH", 
             "toc": "ZB", 
-            "lon": 0.0
+            "lon": -2.192414
         }, 
         {
             "lat": 51.28426715211149, 
